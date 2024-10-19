@@ -17,7 +17,6 @@ This Authentication features includes several important features related to user
 
 ### Frontend Implementation
 
-- 🌐 **Frontend Setup**: Initial setup of the frontend environment.
 - 📋 **Signup Page UI**: User interface for the signup page.
 - 🔓 **Login Page UI**: User interface for the login page.
 - ✅ **Email Verification Page UI**: User interface for verifying email addresses.
@@ -30,6 +29,8 @@ This Authentication features includes several important features related to user
 - 🔑 **Implementing Login**: Logic for user login functionality.
 - 🏠 **Dashboard Page**: The main dashboard interface that users see after logging in.
 - 🔄 **Implementing Forgot Password**: Logic for handling the forgot password process, including sending reset links.
+
+  
 ![image](https://github.com/user-attachments/assets/d24a7ed8-fd80-463c-9f49-a3f7dd236ebd)
 ![image](https://github.com/user-attachments/assets/76b9daf5-6dfd-4718-96c7-ac3c2c8ad9d6)
 ![image](https://github.com/user-attachments/assets/fe01c352-c2e9-45d3-bff7-c089c65bf50e)
